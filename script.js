@@ -2,8 +2,7 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
 
 // آدرس PDF در گیتهاب (این آدرس را با آدرس واقعی فایل خود جایگزین کنید)
-const PDF_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/g1.pdf';
-
+const PDF_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/ghanon-m-y-chatbot1/main/g1.pdf';
 // متغیرهای全局
 let pdfText = '';
 let chatHistory = [];
